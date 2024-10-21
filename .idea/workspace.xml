@@ -4,18 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="550e681a-181d-45e5-87ab-9c9b87255481" name="Changes" comment="" />
+    <list default="true" id="550e681a-181d-45e5-87ab-9c9b87255481" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/search_algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/YouTube Transcipe Summarizer/yt_summ_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sorthing_algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/YouTube Transcipe Summarizer/yt_summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/lists.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lZrlxlXoaRsuYd8rntLgsHhsew" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -27,6 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.hello_world.executor": "Run",
+    "Python.yt_summ_web.executor": "Run",
+    "Python.yt_summarizer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
